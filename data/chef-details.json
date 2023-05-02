@@ -1,8 +1,8 @@
 [
     {
-      "id": 1,
+      "id": "1",
       "name": "Gordon Ramsay",
-      "picture": "https://example.com/gordon-ramsay.jpg",
+      "picture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=600",
       "category": "Main Dish",
       "skills": ["Grilling", "Sous vide"],
       "yearsOfExperience": 30,
@@ -14,9 +14,9 @@
       "rating": 4.9
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Ina Garten",
-      "picture": "https://example.com/ina-garten.jpg",
+      "picture": "https://media.istockphoto.com/id/1309073615/photo/bearded-smiling-handsome-man-in-the-kitchen-at-home-is-posing-and-looking-on-the-camera.jpg?s=612x612&w=0&k=20&c=Zdv88qYKsDxmQE-3rgOTCu9ii64lXJ3s0MMhk1jPoko=",
       "category": "Appetizer",
       "skills": ["Baking", "Entertaining"],
       "yearsOfExperience": 40,
@@ -28,9 +28,9 @@
       "rating": 3.9
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Jamie Oliver",
-      "picture": "https://example.com/jamie-oliver.jpg",
+      "picture": "https://media.istockphoto.com/id/1471607103/photo/happy-white-man-preparing-food-in-the-kitchen.jpg?s=612x612&w=0&k=20&c=QpTdGJIcrPCRjCY-i6y6O2JPZhe2zJKoc3pLskS7uOY=",
       "category": "Vegetarian",
       "skills": ["Vegetable prep", "Italian cuisine"],
       "yearsOfExperience": 25,
@@ -42,9 +42,9 @@
       "rating": 4.5
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Nigella Lawson",
-      "picture": "https://example.com/nigella-lawson.jpg",
+      "picture": "https://media.istockphoto.com/id/1070232334/photo/young-man-in-apron-preparing-vegetable-salad-in-kitchen.jpg?s=612x612&w=0&k=20&c=jEx5PDpflLzSpyxEfuPK9nns2rOQte1IY0UOxHmxPlA=",
       "category": "Dessert",
       "skills": ["Baking", "Pastry"],
       "yearsOfExperience": 20,
@@ -56,9 +56,9 @@
       "rating": 2.9
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Bobby Flay",
-      "picture": "https://example.com/bobby-flay.jpg",
+      "picture": "https://media.istockphoto.com/id/1331389207/photo/latin-man-cooking-at-home-preparing-salad-or-mexican-sauce-in-kitchen-at-home-in-mexico-city.jpg?s=612x612&w=0&k=20&c=xMfs_DV9wRDlbltPRSBGiHOdD4Qk6TRbQq0QtZMWbyI=",
       "category": "Grilling",
       "skills": ["Barbecue", "Southwestern cuisine"],
       "yearsOfExperience": 35,
@@ -70,9 +70,9 @@
       "rating": 4.5
       },
       {
-      "id": 6,
+      "id": "6",
       "name": "Yotam Ottolenghi",
-      "picture": "https://example.com/yotam-ottolenghi.jpg",
+      "picture": "https://media.istockphoto.com/id/610841320/photo/smiling-asian-waiter.jpg?s=612x612&w=0&k=20&c=hK3oLxKh_k9WpkvCg01FveLTUvwiwGx2Y7rTxJjTKq8=",
       "category": "Middle Eastern",
       "skills": ["Vegetarian", "Bakery"],
       "yearsOfExperience": 15,
@@ -84,3 +84,5 @@
       "rating": 3.5
       }
       ]  
+
+      

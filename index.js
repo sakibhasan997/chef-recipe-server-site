@@ -16,6 +16,12 @@ app.get('/recipes', (req, res)=>{
     res.send(recipes);
 });
 
+app.get('/recipes/:id', (req,res)=>{
+    const id = req.params.id;
+    const selectRecipes = recipes.find(n => n.id === id);
+    res.send(selectRecipes)
+})
+
 
 app.listen(port, ()=>{
     console.log(`bro choltese pera nis na ${port}`);
