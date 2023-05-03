@@ -9,10 +9,11 @@
       "bio": "British chef and restaurateur known for his fiery temper and exceptional culinary skills.",
       "numberOfRecipes": 200,
       "likes": 50000,
+      "recipeName": "Beef Wellington",
       "recipes": [
         {
           "recipeId": 1,
-          "recipeName": "Beef Wellington",
+          
           "cuisineType": "British",
           "ingredients": ["beef tenderloin", "mushrooms", "shallots", "prosciutto", "puff pastry", "egg wash"],
           "instructions": ["Season the beef with salt and pepper", "Sear beef on all sides until brown", "Chop mushrooms and shallots and cook in butter", "Roll out puff pastry and wrap beef with mushrooms, shallots, and prosciutto", "Brush pastry with egg wash", "Bake at 425°F for 20-25 minutes", "Let rest for 10 minutes before slicing"],
